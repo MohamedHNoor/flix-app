@@ -7,8 +7,8 @@
 }
 
 :root {
-  --color-primary: #020d18;
-  --color-secondary: #f1c40f;
+  --color-primary: #292f36;
+  --color-secondary: #ff7f11;
 }
 
 body {
@@ -122,7 +122,9 @@ ul {
 
 /* Card */
 .card {
-  background: #04376b;
+  background: #fafafa;
+  color: #4c86a8;
+  border-radius: 10px;
   padding: 5px;
 }
 
@@ -138,7 +140,6 @@ ul {
 .card:hover {
   transform: scale(1.05);
   transition: all 0.5s ease-in-out;
-  background: #0a4b8f;
 }
 
 /* Footer */
