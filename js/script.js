@@ -498,4 +498,5 @@ function init() {
   highlightActiveLink()
 }
 
-document.addEventListener('DOMContentLoaded', init)
+// document.addEventListener('DOMContentLoaded', init)
+init()
